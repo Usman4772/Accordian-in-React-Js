@@ -1,0 +1,6 @@
+export const data=[
+    {id:1,question:"What is accordian?",answer:"  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo voluptate iste voluptates ex veritatis ducimus labore autem. Quam repellendus libero nemo amet est, pariatur nulla soluta voluptatibus, eveniet eos molestiae."},
+    {id:2,question:"What is HTML?",answer:"  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo voluptate iste voluptates ex veritatis ducimus labore autem. Quam repellendus libero nemo amet est, pariatur nulla soluta voluptatibus, eveniet eos molestiae."},
+    {id:3,question:"What is CSS?",answer:"  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo voluptate iste voluptates ex veritatis ducimus labore autem. Quam repellendus libero nemo amet est, pariatur nulla soluta voluptatibus, eveniet eos molestiae."},
+    {id:4,question:"What is React Js?",answer:"  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo voluptate iste voluptates ex veritatis ducimus labore autem. Quam repellendus libero nemo amet est, pariatur nulla soluta voluptatibus, eveniet eos molestiae."},
+]
